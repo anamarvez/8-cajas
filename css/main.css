@@ -1,0 +1,27 @@
+div {
+  	height: 80px;
+  	width: 80px;
+  	margin: 5px;
+  	padding: 10px;
+  	border: solid black;
+  	border-width: 1px;
+  	background-color: grey;  
+}
+
+.large{
+	height: 80px;
+  	width: 280px;
+}
+
+.smaller{
+	height: 65px;
+  	width: 65px;
+	display:inline-block;
+	margin-top: -5px;
+	margin-left: -2px;
+
+}
+
+.juntos{
+	display:inline-block;
+}
